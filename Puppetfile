@@ -1,10 +1,9 @@
 forge 'https://forge.puppet.com'
 
-mod 'puppetlabs/apache', '5.4.0'
-mod 'puppetlabs/stdlib', '4.13.1'
-mod 'puppetlabs/concat',  '2.2.1'
-mod 'puppetlabs/firewall', '2.3.2'
-mod 'puppetlabs/stdlib' , '4.0.0'
+mod 'puppetlabs/apache', '11.1.0'
+mod 'puppetlabs/stdlib', '9.4.0'
+mod 'puppetlabs/concat',  '9.0.0'
+mod 'puppetlabs/firewall', '7.0.2'
 
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
