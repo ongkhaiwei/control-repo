@@ -5,6 +5,7 @@ mod 'puppetlabs/stdlib', '9.4.0'
 mod 'puppetlabs/concat',  '9.0.0'
 mod 'puppetlabs/firewall', '7.0.2'
 mod 'puppetlabs-tomcat', '7.1.0'
+mod 'puppetlabs-java', '10.1.2'
 
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
